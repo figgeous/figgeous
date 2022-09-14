@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @figgeous
-- 👀 I’m interested in Data Science, Python programming.
-- 🌱 I’m currently learning more about machine learning
-- 💞️ I’m looking to collaborate on data analysis Chess
+- 👀 I’m interested in Web Development, Django and Python programming.
+- 🌱 I’m currently learning more about Web Development
+- 💞️ I’m looking to collaborate on data analysis in Chess
 - 📫 How to reach me: email.
 
 <!---
